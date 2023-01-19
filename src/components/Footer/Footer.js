@@ -33,6 +33,7 @@ const Footer = () => {
 
   <SocialIcons href='http://www.instagram.com'>
       <AiFillInstagram size="3rem"/>
+      
   </SocialIcons>
   </SocialContainer>
       </SocialIconsContainer>
